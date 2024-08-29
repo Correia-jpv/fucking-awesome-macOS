@@ -228,6 +228,7 @@
 - 🌎 [Qbserve](qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
 - 🌎 [Quicksilver](qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver) ![Freeware][Freeware Icon]
 - [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
+- [Riffo](https://riffo.ai/) - AI-powered file management tool for bulk renaming and automatic folder organization. ![Freeware][Freeware Icon]
 - 🌎 [SelfControl](selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/) ![Freeware][Freeware Icon]
 - 🌎 [Simplenote](simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - 🌎 [Taskade](apps.apple.com/us/app/taskade-manage-anything/id1490048917/) - Real-time organization and task management tool.
