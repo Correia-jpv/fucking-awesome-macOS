@@ -97,6 +97,7 @@
 - [Hopper Dissassembler](https://www.hopperapp.com) - A Dissassembler for MacOS and Linux. Has a Demo option for 30 minutes of productivity.
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes. [![Open-Source Software][OSS Icon]](https://github.com/liamrosenfeld/Iconology) ![Freeware][Freeware Icon]
+- [Icon Composer](https://developer.apple.com/icon-composer/) - Official Apple tool for composing and previewing app icons across platforms.
 - [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
