@@ -260,6 +260,7 @@
 ### Terminal
 
 - 🌎 [iTerm 2](www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- 🌎 [Nexus Shell](https://nexusshell.app/) - Native macOS SSH workspace with terminal, SFTP, Docker management, server monitoring, and SSH key tools.
 
 
 ### Utilities
