@@ -369,6 +369,7 @@
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - 🌎 [Hummingbird](hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Puts macOS windows back on the right monitor, Space, and position when you plug your display back in. [![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 - 🌎 [Moom](manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - <b><code>&nbsp;&nbsp;4543⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;126🍴</code></b> [Phoenix](https://github.com/kasper/phoenix)) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - 🌎 [Rectangle](rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
