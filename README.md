@@ -392,6 +392,7 @@
 
 - <b><code>&nbsp;31062⭐</code></b> <b><code>&nbsp;&nbsp;1425🍴</code></b> [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line)) - Use your macOS terminal shell to do awesome things.
 - <b><code>&nbsp;&nbsp;1041⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;51🍴</code></b> [CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli)) - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Inspect macOS network status and diagnostics in the terminal. [![Open-Source Software][OSS Icon]](https://github.com/seifip/kilobat-cli) ![Freeware][Freeware Icon]
 - <b><code>&nbsp;&nbsp;9921⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;317🍴</code></b> [m-cli](https://github.com/rgcr/m-cli)) -  Swiss Army Knife for macOS.
 - <b><code>&nbsp;&nbsp;9122⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;330🍴</code></b> [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)) -  macOS command line tools for developers.
 - <b><code>&nbsp;&nbsp;&nbsp;372⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15🍴</code></b> [Mocker](https://github.com/us/mocker)) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
