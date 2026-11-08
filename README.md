@@ -266,6 +266,9 @@
 
 
 ### Utilities
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 - 🌎 [1Password](1password.com) - Password Manager and Secure Wallet.
 - <b><code>&nbsp;&nbsp;6039⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;157🍴</code></b> [AnyBar](https://github.com/tonsky/AnyBar)) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
