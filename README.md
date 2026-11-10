@@ -535,5 +535,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Puts macOS windows back on the right monitor, Space, and position when you plug your display back in. [![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 ## Source
 <b><code>&nbsp;19482⭐</code></b> <b><code>&nbsp;&nbsp;1774🍴</code></b> [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS))
