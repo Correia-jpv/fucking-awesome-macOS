@@ -53,6 +53,7 @@
 ## Applications
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Now Playing album cover and title in the corner beside the Dock.
 
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
 - 🌎 [Audio Profile Manager](apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.
